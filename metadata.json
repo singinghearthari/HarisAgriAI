@@ -1,0 +1,5 @@
+{
+  "name": "Hari's Agri AI",
+  "description": "AI-powered Smart Agriculture platform for crop yield prediction, climate risk analysis, market price forecasting, and agricultural advice in Tamil.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
